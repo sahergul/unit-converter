@@ -80,3 +80,5 @@ if st.button("Convert"):
         st.success(f"The result is {result:.2f}")
     except KeyError:
         st.error("Invalid conversion selection - please check unit options")
+
+        st.write("Created by Saher Rammez")
