@@ -81,4 +81,4 @@ if st.button("Convert"):
     except KeyError:
         st.error("Invalid conversion selection - please check unit options")
 
-        st.write("Created by Saher Rammez")
+print("Created by Saher Rammez")
